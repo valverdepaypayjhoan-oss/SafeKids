@@ -1,0 +1,10 @@
+SAFekids — PORTAL CON LOGO OFICIAL
+==================================
+1. Extrae el ZIP.
+2. Abre public/index.html para revisar la página.
+3. Mantén juntos index.html, styles.css, app.js y la carpeta assets.
+4. Para publicar: sube todos los archivos a GitHub conservando la estructura.
+5. Importa el repositorio en Vercel. Framework: Other. Output Directory: public.
+6. Pulsa Deploy.
+
+La página usa el logo facilitado y no incluye demostración simulada. Las funciones GPS, base de datos, alertas y APK todavía no están conectadas; se implementarán en etapas posteriores.
